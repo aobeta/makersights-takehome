@@ -1,0 +1,6 @@
+There are a couple things that we can do to improve the user experience for this page:
+- Add a search bar so that users can search by product name.
+- Allow sorting of products by price, ascending or descending
+- Allow sorting of products by product name from A-Z or Z-A
+- Allow filtering of products who are children of a specific product
+- Give users a way to search switch the brand of products they are looking at.
