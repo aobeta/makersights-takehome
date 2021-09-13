@@ -11,7 +11,7 @@
  *      - updatedAt : Date
  *
  *  Product
- *      - id : number (auto-generated and auto incremented)
+ *      - id : long (auto-generated and auto incremented)
  *      - name : string
  *      - productImageUrl: string
  *      - price : number
